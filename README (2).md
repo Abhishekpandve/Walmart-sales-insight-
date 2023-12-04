@@ -24,7 +24,7 @@ Q5. Net Profit & Profit Margin by Market
 
 2.Data Cleaning in Python.
 
-3.Performed ETL process (Extract Transform and Load.
+3.Performed ETL process Extract Transform and Load.
 
 4.Created measure for needs and used them for creating visuals in Tableau.
 
@@ -32,8 +32,7 @@ Q5. Net Profit & Profit Margin by Market
 
 6.Data Modelling and Visualization.
 ## Tableau Presentation
-
-https://public.tableau.com/app/profile/abhishek.pandve/viz/Walmartsalesinsightdashboard1pre/Dashboard3?publish=yes
+https://public.tableau.com/app/profile/abhishek.pandve/viz/WalmartsalesinsightDshboard1/Dashboard1?publish=yes
 ## Conclusion
 1.Customer from California(Los Angeles) and Washington(Seattle) are more likely to buy products from chair, phone and table category
 
